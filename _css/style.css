@@ -119,6 +119,7 @@ body {
 #foto {
     overflow: hidden;
     opacity: .2;
+    transition: all 1s linear;
 }
 
 
