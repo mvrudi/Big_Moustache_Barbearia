@@ -13,7 +13,6 @@ function trocaFoto () {
 }
 
 setInterval(trocaFoto, 3000);
-//setInterval(trocaPainel, 3000);
 
 function trocaPainel(foto){
     
